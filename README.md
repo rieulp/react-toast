@@ -45,5 +45,5 @@ export default function App() {
 ## 추가 라이브러리
 - `@emotion/styled`
 - `@emotion/react`
-- `react-transision-group`
+- `react-transition-group`
 
